@@ -438,6 +438,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 - [Webflow (Adobe Muse)](https://webflow.com/) 一款可以帮助用户不用编码就可以快速创建网站的谷歌浏览器插件。
 - [Tupi (Adobe Animate)](http://www.maefloresta.com/portal/) 一款可以创建HTML5动画的工具。
 - [Black Magic Fusion (Adobe After Effects)](https://www.blackmagicdesign.com) 一款先进的合成软件，广泛应用于视觉特效、广电影视设计以及3D动画设计等领域。
+-  [BackGone (AI 智能抠图与去背景)](https://backgone.com) 一个专业的 AI 图像背景移除平台，支持网页在线处理、批量处理、REST API 以及 MCP Server。
 
 ### 中国开源镜像站点
 
@@ -587,6 +588,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/bycszzz" title="bycs"><img src="https://avatars.githubusercontent.com/u/101485931?v=4" width="42;" alt="bycs"/></a>
 <a href="https://github.com/HDsky" title="Yidan Wang"><img src="https://avatars.githubusercontent.com/u/17249963?v=4" width="42;" alt="Yidan Wang"/></a>
 <a href="https://github.com/oliver-zch" title="oliver"><img src="https://avatars.githubusercontent.com/u/49701721?v=4" width="42;" alt="oliver"/></a>
+<a href="https://github.com/qichenya" title="qichenya"><img src="https://avatars.githubusercontent.com/u/162135575?v=4" width="42;" alt="qichenya"/></a>
 <a href="https://github.com/rexlin600" title="rexlin600"><img src="https://avatars.githubusercontent.com/u/23032549?v=4" width="42;" alt="rexlin600"/></a>
 <a href="https://github.com/guowenju" title="gwj"><img src="https://avatars.githubusercontent.com/u/77674552?v=4" width="42;" alt="gwj"/></a>
 <a href="https://github.com/shhch" title="shc"><img src="https://avatars.githubusercontent.com/u/46923522?v=4" width="42;" alt="shc"/></a>
